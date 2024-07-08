@@ -4,6 +4,8 @@
 
 <h2>Description</h2>
 This project was a fun game I made to practice my personal mental arithmetic and potentially make something educational that people online might find useful. This project was made as a Google Chrome Extension and is currently live on the Chrome Store here: https://chromewebstore.google.com/detail/mental-arithmetic-challen/kkfijllpelljnmcfgebmopacpakpaknb?authuser=0&hl=en
+<br />
+The website version is also available here: https://main.d31p7q39ytbjqo.amplifyapp.com/
 
 <br />
 
